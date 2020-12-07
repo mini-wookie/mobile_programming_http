@@ -1,0 +1,34 @@
+<%@ page language="java" contentType="text/xml; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<data>
+	<item>
+		<data1>20151458</data1>
+		<data2>김민욱</data2>
+		<data3>3.98</data3>
+	</item>
+	<item>
+		<data1>20151456</data1>
+		<data2>김동률</data2>
+		<data3>4.02</data3>
+	</item>
+	<item>
+		<data1>20170800</data1>
+		<data2>오희강</data2>
+		<data3>4.5</data3>
+	</item>
+	<item>
+		<data1>20151499</data1>
+		<data2>최성환</data2>
+		<data3>3.56</data3>
+	</item>
+	<item>
+		<data1>20151465</data1>
+		<data2>박재현</data2>
+		<data3>2.98</data3>
+	</item>
+	<item>
+		<data1>20151485</data1>
+		<data2>이예찬</data2>
+		<data3>4.3</data3>
+	</item>
+</data>
